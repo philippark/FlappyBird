@@ -245,6 +245,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   pipe: {fileID: 1227445659964792023, guid: aa5ec6d2a6012d44b8997109263fa764, type: 3}
+  timer: 0
+  spawnRate: 2
+  heightOffset: 10
 --- !u!4 &712922178
 Transform:
   m_ObjectHideFlags: 0
